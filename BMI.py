@@ -1,4 +1,7 @@
-Weight = int(input('Enter your weight : ')) #In Kg
+#Enter your Weight (in Kg)
+Weight = int(input('Enter your weight : '))
+
+#Enter your Height (in m)
 Height = float(input('Enter your height : ')) #In Meter
 
 #Calculate BMI
